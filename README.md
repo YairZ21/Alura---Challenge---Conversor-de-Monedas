@@ -58,10 +58,10 @@ https://github.com/YairZ21/Alura---Challenge---Conversor-de-Monedas/tree/9717f21
 
 ### 3. Ejecuta la Aplicación
 
-¡Ya estás listo! Solo tienes que ejecutar la clase `Main.java` y disfrutar de la magia del conversor.
+¡Ya estás listo! Solo tienes que ejecutar la clase `Principal.java` y disfrutar de la magia del conversor.
 
 ```bash
-java Main.java
+java Principal.java
 ```
 
 ---
