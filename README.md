@@ -47,6 +47,10 @@ Este proyecto es una mezcla perfecta de tecnología y creatividad. Las principal
 
 ### 1. Clona este Repositorio
 
+```bash
+https://github.com/YairZ21/Alura---Challenge---Conversor-de-Monedas/tree/9717f21a583d43fbc7795286ea77016d557e18a3/src/com/conversor
+```
+
 ### 2. Abre el Proyecto en tu IDE favorito
 
 * Usa **Eclipse** o **IntelliJ IDEA** para ejecutar el proyecto.
